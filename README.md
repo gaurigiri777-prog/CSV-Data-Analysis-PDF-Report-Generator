@@ -80,6 +80,8 @@ outputs/charts/
 - 🧾 Final PDF report:
 ```
 
+https://github.com/gaurigiri777-prog/CSV-Data-Analysis-PDF-Report-Generator/blob/main/Automated%20Report%20Generation/Report/superstore_report_with_charts.pdf
+
 ```
 
 ---
@@ -104,7 +106,8 @@ outputs/charts/
 
 
 ### 4️⃣ Generated PDF Report
-![PDF Report](screenshots/pdf_report.png)
+
+<img width="332" height="809" alt="Screenshot 2026-03-19 231505" src="https://github.com/user-attachments/assets/99fd5ecb-526d-43e3-b160-d7c99733cf15" />
 
 ---
 
